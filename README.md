@@ -1,4 +1,9 @@
 # Miniblink-Python-SimpleDemo
+![license](https://img.shields.io/github/license/ynyyn/Miniblink-Python-SimpleDemo)
+![platform](https://img.shields.io/badge/platform-Windows-007fe2)
+![python](https://img.shields.io/badge/python-3.6%20|%203.7%20@%2032%20bit-blue)
+![issues](https://img.shields.io/github/issues/ynyyn/Miniblink-Python-SimpleDemo)
+![last-commit](https://img.shields.io/github/last-commit/ynyyn/Miniblink-Python-SimpleDemo)
 
 A very simple Miniblink and Python 3 binding example. Sketchy and rough prototype as it is, it might, someday in the future, become a not bad candidate to get a quick view of Miniblink.
 
